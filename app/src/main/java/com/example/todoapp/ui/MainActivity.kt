@@ -5,7 +5,6 @@ import android.os.Bundle
 import com.example.todoapp.R
 import dagger.hilt.android.AndroidEntryPoint
 
-@AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
